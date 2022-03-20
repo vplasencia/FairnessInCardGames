@@ -1,0 +1,16 @@
+anothercard_cpp
+anothercard_js
+
+anothercard_0000.zkey
+anothercard_0001.zkey
+anothercard.r1cs
+anothercard.sym
+pot12_0000.ptau
+pot12_0001.ptau
+pot12_final.ptau
+proof.json
+public.json
+verification_key.json
+verifier.sol
+witness.wtns
+parameters.txt

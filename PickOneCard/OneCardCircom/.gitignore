@@ -1,0 +1,16 @@
+onecard_cpp
+onecard_js
+
+onecard_0000.zkey
+onecard_0001.zkey
+onecard.r1cs
+onecard.sym
+pot12_0000.ptau
+pot12_0001.ptau
+pot12_final.ptau
+proof.json
+public.json
+verification_key.json
+verifier.sol
+witness.wtns
+parameters.txt

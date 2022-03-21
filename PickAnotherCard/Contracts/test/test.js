@@ -1,7 +1,7 @@
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
-describe("OneCard", function () {
+describe("AnotherCard", function () {
   it("Should verify the Card proof and return true", async function () {
     // Deploy the VerifierCard contract
     const contractFactoryVerifierCard = await hre.ethers.getContractFactory(
